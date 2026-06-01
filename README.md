@@ -91,3 +91,7 @@ This project demonstrates practical applications of:
 Wagner Moreno
 
 University of Niagara Falls Canada
+
+## Demo 
+https://workforce.neuraforgesolutions.com<img width="987" height="551" alt="Screenshot 2026-06-01 173441" src="https://github.com/user-attachments/assets/7a643645-7b36-49bd-aad6-74a07a8b6561" />
+
